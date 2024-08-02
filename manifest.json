@@ -1,7 +1,7 @@
 {
 	"id": "copilot-brat",
 	"name": "Copilot (BRAT)",
-	"version": "2.5.4",
+	"version": "2.5.6",
 	"minAppVersion": "0.15.0",
 	"description": "A ChatGPT Copilot in Obsidian.",
 	"author": "Logan Yang",
